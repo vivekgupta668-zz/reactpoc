@@ -1,0 +1,194 @@
+{
+    "books": [
+        {
+            "globalbookid": "CM16706492",
+            "title": "Lone Star Politics",
+            "authors": [
+                {
+                    "middlename": "\n",
+                    "lastname": "Clinkscale",
+                    "firstname": "David"
+                },
+                {
+                    "middlename": "\n",
+                    "lastname": "Benson",
+                    "firstname": "Paul"
+                },
+                {
+                    "middlename": "\n",
+                    "lastname": "Giardino",
+                    "firstname": "Anthony"
+                }
+            ],
+            "ebookisbn10": "prod_title",
+            "ebookisbn13": "prod_title",
+            "printisbn10": "0205927793",
+            "printisbn13": "9780205927791",
+            "librarysupported": 1,
+            "editiontype": "commonedition",
+            "previewlink": ""
+        },
+        {
+            "globalbookid": "CM21005471",
+            "title": "4. CERT3: BNR: Corporate Finance Online powered by MyFinanceLab : Federated bookshelf test data",
+            "authors": [
+                {
+                    "lastname": "Eakins",
+                    "firstname": "Stanley"
+                },
+                {
+                    "lastname": "McNally",
+                    "firstname": "William"
+                }
+            ],
+            "ebookisbn10": "bnr_federated_cert3_1",
+            "ebookisbn13": "bnr_federated_cert3_1",
+            "printisbn10": "bnr_federated_cert3_1",
+            "printisbn13": "bnr_federated_cert3_1",
+            "editiontype": "commonedition",
+            "previewlink": ""
+        },
+        {
+            "globalbookid": "CM42907485",
+            "title": "1. CERT1: BNR: Portrait on: Audio Text: Reading Street National student Edition Grade 3.2",
+            "authors": [
+                {
+                    "lastname": "Juel",
+                    "firstname": "Connie"
+                }
+            ],
+            "ebookisbn10": "bnr_federated_cert1_1",
+            "ebookisbn13": "bnr_federated_cert1_1",
+            "printisbn10": "bnr_federated_cert1_1",
+            "printisbn13": "bnr_federated_cert1_1",
+            "editiontype": "commonedition",
+            "previewlink": ""
+        },
+        {
+            "globalbookid": "CM50453343",
+            "title": "ntroduction ÃÂÃÂ  la microbiologie",
+            "authors": [
+                {}
+            ],
+            "ebookisbn10": "9782761345804",
+            "ebookisbn13": "9782761345804",
+            "printisbn10": "9782761345804",
+            "printisbn13": "9782761345804",
+            "editiontype": "commonedition",
+            "previewlink": ""
+        },
+        {
+            "globalbookid": "CM43339819",
+            "title": "new_audiosync",
+            "authors": [
+                {
+                    "middlename": "Pearson India",
+                    "lastname": "eText",
+                    "firstname": "KK"
+                },
+                {
+                    "middlename": "Pearson",
+                    "lastname": "QA",
+                    "firstname": "eText"
+                }
+            ],
+            "ebookisbn10": "new_audiosync",
+            "ebookisbn13": "new_audiosync",
+            "printisbn10": "new_audiosync",
+            "printisbn13": "new_audiosync",
+            "librarysupported": 0,
+            "editiontype": "commonedition",
+            "previewlink": ""
+        },
+        {
+            "globalbookid": "CM84750290",
+            "title": "at_FLTE_test_ppe_opt",
+            "authors": [
+                {}
+            ],
+            "ebookisbn10": "at_FLTE_test_ppe_opt",
+            "ebookisbn13": "at_FLTE_test_ppe_opt",
+            "printisbn10": "at_FLTE_test_ppe_opt",
+            "printisbn13": "at_FLTE_test_ppe_opt",
+            "editiontype": "commonedition",
+            "previewlink": ""
+        },
+        {
+            "globalbookid": "CM54561251",
+            "bookid": 7722,
+            "title": "The Contemporary American President",
+            "authors": [
+                {
+                    "middlename": "E.",
+                    "lastname": "Diclerico",
+                    "firstname": "Robert"
+                }
+            ],
+            "ebookisbn10": "0205918654",
+            "ebookisbn13": "9780205918652",
+            "printisbn10": "0136018823",
+            "printisbn13": "9780136018827",
+            "librarysupported": 1,
+            "edition": "First Edition",
+            "previewlink": "http://view.dev2.ebookplus.pearsoncmg.com/ebook/linktoebook1.do?platform=1030&bookid=7722"
+        },
+        {
+            "globalbookid": "CM58277512",
+            "title": "special_chars_orig",
+            "authors": [
+                {}
+            ],
+            "ebookisbn10": "special_chars_orig",
+            "ebookisbn13": "special_chars_orig",
+            "printisbn10": "special_chars_orig",
+            "printisbn13": "special_chars_orig",
+            "editiontype": "commonedition",
+            "previewlink": ""
+        },
+        {
+            "globalbookid": "CM87203280",
+            "bookid": 7923,
+            "title": "The Life Span: Human Development for Helping Professionals",
+            "authors": [
+                {
+                    "lastname": "Blewitt",
+                    "firstname": "Pamela"
+                },
+                {
+                    "lastname": "Broderick",
+                    "firstname": "Patricia"
+                }
+            ],
+            "ebookisbn10": "CM58700852",
+            "ebookisbn13": "CM58700852",
+            "printisbn10": "CM58700852",
+            "printisbn13": "CM58700852",
+            "librarysupported": 1,
+            "editiontype": "commonedition",
+            "previewlink": "http://view.dev2.ebookplus.pearsoncmg.com/ebook/linktoebook1.do?platform=1030&bookid=7923"
+        },
+        {
+            "globalbookid": "DCTM84911072",
+            "title": "RC DCTM 3-28nov: America: Past and Present, Combined Volume",
+            "authors": [
+                {
+                    "firstname": "Williams"
+                },
+                {
+                    "firstname": "Divine"
+                },
+                {
+                    "firstname": "Brands"
+                }
+            ],
+            "ebookisbn10": "rc_dctm_28nov",
+            "ebookisbn13": "rc_dctm_28nov",
+            "printisbn10": "rc_dctm_28nov",
+            "printisbn13": "rc_dctm_28nov",
+            "librarysupported": 1,
+            "editiontype": "commonedition",
+            "previewlink": ""
+        }
+        
+        ]
+}
