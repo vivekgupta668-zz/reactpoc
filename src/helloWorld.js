@@ -1,4 +1,6 @@
-﻿var ProductRow = React.createClass({
+﻿import React from 'react';
+import ReactDOM from 'react-dom'
+var ProductRow = React.createClass({
     render: function() {
 
 return (
